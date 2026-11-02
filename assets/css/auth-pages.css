@@ -24,7 +24,7 @@ a{
 }
 .wpo-accountInfo {
     width: 50%;
-    background: #192553;
+    background: #195441;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -183,10 +183,10 @@ input[type=checkbox]:checked:disabled + label:before {
     font-size: 16px;
     font-weight: 700;
     padding: 10px 20px;
-    border: 2px solid #1a1b41;
+    border: 2px solid #1a411c;
     width: 100%;
     border-radius: 30px 30px 30px 0;
-    background: #232a5e;
+    background: #1b4524;
     color:#fff;
    transition: all .4s ease-in-out 0s; 
    margin-top: 30px;
@@ -236,7 +236,7 @@ input[type=checkbox]:checked:disabled + label:before {
 }
 
 .wpo-socialLoginBtn li button.facebook {
-    background: #3b5998;
+    background: #2e6c49;
 }
 .wpo-socialLoginBtn li button.linkedin {
     background: #0077B5;
@@ -370,11 +370,11 @@ input[type=checkbox]:checked:disabled + label:before {
     top: 0;
     font-size: 16px;
     font-weight: 900;
-    color: #1d3557;
+    color: #25582c;
 }
 
 .floating-group input:focus {
-    border-color: #1d3557;
+    border-color: #256227;
 }
 
 .password-group {
